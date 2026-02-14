@@ -28,7 +28,7 @@ I am an aspiring **Full Stack Web Developer** and a dedicated problem solver. I'
 ---
 
 ### 📄 Professional Links
-- 💼 **[View My Resume/CV](./Ahmad-Mahmoud-Medhat-Resume.pdf)**
+- 💼 **[View My Resume/CV](./Ahmad-Mahmoud-CV.pdf)**
 - 🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) **[LinkedIn Profile](https://www.linkedin.com/in/ahmad-mahmoud-medhat/)**
 
 ---
