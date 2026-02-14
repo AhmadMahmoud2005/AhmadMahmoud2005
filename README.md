@@ -32,5 +32,5 @@ I am an aspiring **Full Stack Web Developer** and a dedicated problem solver. I'
 
 ---
 
-### 📊 GitHub Stats
-![Ahmad's Stats](https://github-readme-stats.vercel.app/api?username=AhmadMahmoud2005&show_icons=true&theme=radical)
+### 📈 My GitHub Journey
+![Ahmad's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AhmadMahmoud2005&show_icons=true&theme=tokyonight)
