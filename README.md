@@ -26,10 +26,7 @@ I am an aspiring **Full Stack Web Developer** and a dedicated problem solver. I'
 ---
 
 ### 📂 Key Projects & Repositories
-
-* **[Banking-System](https://github.com/AhmadMahmoud2005/Banking-System-C-)** – A comprehensive C++ project demonstrating OOP principles and logic.
-* **[Problem-Solving](https://github.com/AhmadMahmoud2005/Problem-Solving)** – A collection of my solutions to algorithmic challenges (C++ / Python).
-* **[Bus-Station-Management-System](https://github.com/AhmadMahmoud2005/Bus-Station-Management-System)** – Experience with Java-based system design.
+Nothing deserve to be mentioned for now.
 
 ---
 
@@ -37,15 +34,12 @@ I am an aspiring **Full Stack Web Developer** and a dedicated problem solver. I'
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | C#, ASP.NET Core, Python, C++, Java |
+| **Backend** | C#, ASP.NET Core, Python |
 | **Frontend** | JavaScript (ES6+), React.js, HTML5, CSS3 |
 | **Database** | SQL Server, PostgreSQL |
-| **Tools** | Git, GitHub, VS Code, Visual Studio |
+| **Tools** | Git, GitHub, VS Code, Neovim |
 
 ---
 
 ### 📄 Professional Links
-- 💼 **[View My Resume/CV](./path-to-your-cv.pdf)** - 🔗 **[LinkedIn](https://www.linkedin.com/in/your-profile)** ---
-
-### 📊 My GitHub Activity
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadMahmoud2005&show_icons=true&theme=dark)
+- 💼 **[View My Resume/CV]("C:\Users\Ahmad\Downloads\Ahmad-Mahmoud-Medhat-FlowCV-Resume-20260214.pdf")** - 🔗 **[LinkedIn](https://www.linkedin.com/in/ahmad-mahmoud-medhat/)** ---
